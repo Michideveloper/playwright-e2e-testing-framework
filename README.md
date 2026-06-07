@@ -8,7 +8,8 @@
 A robust, enterprise-grade End-to-End (E2E) Test Automation Framework designed for the [SauceDemo](https://www.saucedemo.com) e-commerce platform. This project showcases modern QA engineering practices, implementing the **Page Object Model (POM)** design pattern, strict **TypeScript** typings, and CI/CD-ready configurations to deliver reliable, scalable, and ultra-fast test suites.
 
 <p align="center">
-  <img src="assets/screenshot.webp" alt="SauceDemo Web Application Screenshot" width="800">
+  <img src="assets/screenshot.webp" alt="SauceDemo Web Application" width="49%">
+  <img src="assets/demo.gif" alt="Playwright SauceDemo E2E Test Demo" width="49%">
 </p>
 
 ---
