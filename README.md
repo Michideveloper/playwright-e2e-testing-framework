@@ -1,3 +1,13 @@
+# Hi there, I'm José! 
+## Junior QA Automation Engineer | Selenium | Playwright | CI/CD | Open to opportunities
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20|%20QA%20Automation&fontSize=40&animation=fadeIn" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Michideveloper&color=663399&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 # 🎭 Playwright SauceDemo E2E Test Suite
 
 [![Playwright](https://img.shields.io/badge/Playwright-31C654?style=for-the-badge&logo=Playwright&logoColor=white)](https://playwright.dev/)
